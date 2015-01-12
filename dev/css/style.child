@@ -1,0 +1,12 @@
+/*
+Theme Name: slate-0.3.1_warmteinstallatieservice
+Theme URI: https://github.com/mahmut070/warmteinstallatieservice
+Description: a clean slate - warmteinstallatieservice child theme
+Version: 0.3.1
+Author: Mahmut
+Author URI: http://www.lokaalgevonden.nl
+Tags: slate
+Template: slate-0.3.1
+*/
+
+@import url('../slate-0.3.1/style.css');

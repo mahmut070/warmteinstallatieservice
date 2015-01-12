@@ -1,0 +1,172 @@
+.Content {
+
+}
+
+.content-area{
+	background: #ffffff;
+}
+
+.red-text{
+	color: #e42f3d;
+}
+
+.end-text{
+	font-size: 16px;
+	padding-bottom: 30px;
+}
+
+.blok-1{
+	width: 400px;
+	height: 206px;
+}
+
+.blok-2{
+	height: 206px;
+	width: 330px;
+}
+
+.blok-3{
+	width: 400px;
+	height: 240px;
+}
+
+.blok-4{
+	width: 330px;
+	height: 240px;
+}
+
+.blok-5{
+	width: 450px;
+}
+
+.blok-6{
+	width: 250px;
+}
+
+
+.blok-11{
+	height: 170px;
+	width: 250px;
+}
+
+.blok-12{
+	height: 170px;
+	width: 250px;	
+}
+
+.blok-13{
+	width: 210px;
+	height: 121px;
+}
+
+.blok-16{
+	width: 325px;
+	height: 38px;
+}
+
+.home-row-4 img{
+	width: 162px;
+}
+
+.row-home{
+	margin-top: 20px;
+}
+
+.news-logo{
+	width: 100px;
+}
+
+.intergas-logo{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.brochure-area{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.brochure-area span{
+	color: green;
+}
+
+.brochure-area img{
+	margin-left: 20px;
+}
+
+.opsomming-lijst li{
+	list-style-image: url(../img/check.png);
+	margin-left: 30px;
+}
+
+.opsomming-lijst-storing li{
+	list-style-image: url(../img/arrow.png);
+	margin-left: 30px;
+}
+
+.text-bold{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.brown-text{
+	color: rgb(101, 80, 67);
+}
+
+.telefoonnummer{
+	color: blue;
+	font-size: 18px;
+}
+
+.red-background-text{
+	background:red;
+	color: #ffffff;
+	display: inline;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.purple-text{
+	color: rgb(83, 50, 130);
+}
+
+.red-text{
+	color: red;
+	font-size: 18px;
+}
+
+.handleiding-link{
+	font-size: 18px;
+	color: #000000;
+}
+
+.brochure-child-area{
+	text-align: center;
+}
+
+.btw-text{
+	font-size: 10px;
+}
+
+.tabel-service {
+	height: 47px;
+	padding-top: 14px;
+}
+
+//App pagina
+.google-play{
+   display: block;
+   margin-top: 30px;
+}
+
+.qr_code{
+  width: 200px;
+  margin-top: 30px;
+}
+
+
+@media all and (max-width: 650px) { 
+	.size-full{
+		height: 50%;
+	}
+}

@@ -1,0 +1,50 @@
+.Footer {
+}
+
+// RESPONSIVE FOOTER
+.Footer-inner .widget {
+	@include span-columns(4);
+	@media screen and(max-width: 980px){
+		@include span-columns(12);
+	}
+}
+
+.Footer-inner {
+}
+
+//style the widgets
+.Footer-inner .widget {
+
+}
+
+.footer-inhoud{
+	background: #b9b9b9;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.Socket{
+	text-align: center;
+}
+
+.footer-inhoud h4{
+	font-size: 16px;
+}
+
+.logo-footer{
+	margin-top: -124px;
+	min-width: 300px;
+}
+
+.menu-0{
+	width: 200px;
+}
+
+.twitter-button{
+	margin-left: 10px;
+}
+@media all and (max-width: 650px) { 
+	.logo-footer{
+		display: none;
+	}
+}
