@@ -164,9 +164,16 @@
   margin-top: 30px;
 }
 
+.icon-footer{
+	width: 100px;
+}
 
 @media all and (max-width: 650px) { 
 	.size-full{
 		height: 50%;
+	}
+
+	.icon-footer{
+		margin-top: 20px;
 	}
 }

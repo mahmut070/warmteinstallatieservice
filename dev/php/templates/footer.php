@@ -35,6 +35,8 @@
 
 					<div class="u-gridCol3">
 						<a href="/home"><img class="logo-footer" src="<?php echo get_stylesheet_directory_uri();?>/img/logo-footer.png"></a>
+						<img class="icon-footer" src="<?php echo get_stylesheet_directory_uri();?>/img/vni.png">
+						<img class="icon-footer" src="<?php echo get_stylesheet_directory_uri();?>/img/check.jpg">
 					</div>
 	
 				</div>

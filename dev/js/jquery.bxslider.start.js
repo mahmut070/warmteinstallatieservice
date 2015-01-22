@@ -12,8 +12,8 @@ jQuery(document).ready(function($) {
     speed: 500,
     infiniteLoop: true,
     hideControlOnEnd: true,
-    touchEnabled: false,
-    pager: true,
+    touchEnabled: true,
+    pager: false,
     controls: true,
     onSliderLoad: function() {
       $('.Slider').css('visibility', 'visible');
